@@ -15,5 +15,5 @@ bot.remove_command('help')
 bot.add_cog(help_cog(bot))
 bot.add_cog(music_cog(bot))
 
-#start the bot with our token
-bot.run(os.getenv("TOKEN"))
+# bắt đầu bot bằng mã thông báo của chúng tôi
+bot . run ( bộ điều khiển getenv               ( "MTAwMDkxNjQwMTU5NjM5OTcyNw.GEanQ6.j4oXZ5ObzDPcSndzvHbBT4F0xVc2gr_Twt6OEY" )
